@@ -108,3 +108,10 @@
 ## Вывод
 
 В ходе лабораторной работы были освоены навыки установки и настройки виртуальной машины с использованием VirtualBox, а также установки операционной системы Ubuntu. Полученные знания могут быть применены для создания изолированных сред для тестирования и разработки программного обеспечения.
+
+## Библиография
+
+1. Официальный сайт Oracle VM VirtualBox: [https://www.virtualbox.org/](https://www.virtualbox.org/) – источник установщика и документации по настройке ВМ.
+2. Официальный сайт Ubuntu: [https://ubuntu.com/](https://ubuntu.com/) – источник ISO-образа и руководств по установке.
+3. Документация по Guest Additions: [https://www.virtualbox.org/manual/ch04.html](https://www.virtualbox.org/manual/ch04.html) – инструкции по установке и преимуществам интеграции.
+4. Canonical Ltd. Ubuntu Installation Guide: [https://ubuntu.com/tutorials/install-ubuntu-desktop](https://ubuntu.com/tutorials/install-ubuntu-desktop) – пошаговое руководство по установке Ubuntu.
